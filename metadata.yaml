@@ -1,0 +1,37 @@
+_repo: The-interpretation-of-dreams-and-moles-with-other-curious-matters-relating-to-love-and-courts__71045
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-06-26'
+identifiers:
+  gutenberg: '71045'
+language: en
+pgterms:marc904: https://archive.org/details/b30375460/mode/2up
+pgterms:marc905: 20230508182329marshall
+pgterms:marc906: '1805'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJ. Marshall, $c1805.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dream interpretation'
+- !lcsh 'Fortune-telling'
+- !lcsh 'Fortune-telling by moles'
+- !lcc 'BF'
+- GITenberg
+title: The interpretation of dreams and moles, with other curious matters, relating
+  to love and courtship
+url: http://www.gutenberg.org/ebooks/71045
